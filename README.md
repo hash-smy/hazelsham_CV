@@ -9,7 +9,7 @@ I have a proven track record of building relationships with customers, managing 
 | --------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------- |
 | **Final project :    Cheese-sommelier** | A web app to help Cheese lover base on their preference ,explore new type of Chesse. | Javascript, React, Cypress,MongoDB. |
 | **FaceBook clone project**              | A web app which let users to sign up ,login ,post their own posts or pictures, comment and like other user's posts Fully deployed | Javascript, React, Cypress,MongoDB, html,CSS  |
-| **Bank tech test**                      |Technical test. Program provide core bank features including deposit/withdraw and print formatted statements| Javascript , node , jest
+| **Bank tech test**                      |Technical test. A prograne let user get balance deposit ,withdraw and print formatted statements| Javascript , node , jest
 | **AirBnB clone project**                | A web app which let users to sign up, login, check booking availability, request to book and upload their own properties                                            | Python, html, CSS, SQL,  |
 ## Skills
 
