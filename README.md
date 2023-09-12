@@ -13,22 +13,18 @@ I have a proven track record of building relationships with customers, managing 
 | **AirBnB clone project**                | A web app which let users to sign up, login, check booking availability, request to book and upload their own properties                                            | Python, html, CSS, SQL,  |
 ## Skills
 
-#### Customer Service and Communication
-
-Honed communication skills through academic achievements and professional roles.
-Presented complex technical information to various stakeholders.
-Conducted training sessions for junior colleagues on technical topics.
+### Customer Service and Communication
+- Honed communication skills through academic achievements and professional roles.
+- Presented complex technical information to various stakeholders.
+- Conducted training sessions for junior colleagues on technical topics.
 
 ### Operations and Inventory Management
-
-Proficient in managing stock and optimizing logistics with SAP , Workday
-Experience in cycle counting, transfers, and inventory operations.
+- Proficient in managing stock and optimizing logistics with SAP , Workday
+- Experience in cycle counting, transfers, and inventory operations.
 
 ### Teamwork and Leadership 
-
-Led and supported teams, offering feedback and guidance.
-Collaborated with cross-functional teams to achieve store goals.
-
+- Led and supported teams, offering feedback and guidance.
+- Collaborated with cross-functional teams to achieve store goals.
 
 ## Education
 
