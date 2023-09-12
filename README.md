@@ -93,9 +93,6 @@ Assistant Manager
 - Collected customer data for client networking.
 
 
-
-
-
-
-
 ## Hobbies
+- Passionate about 3D printing, creating intricate designs and prototypes.
+- Enjoy candle making as a creative outlet, experimenting with unique scents and designs.
