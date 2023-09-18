@@ -1,7 +1,6 @@
 # Hazel (Man) Sham
 
-Aspiring Software Developer with a strong background in retail and customer service. 
-I have a proven track record of building relationships with customers, managing inventory,and driving operational excellence. Excited about leveraging my skills to contribute to the world of technology.
+I come from a dynamic background in luxury retail, where I honed essential skills such as exceptional customer service, cross-functional collaboration, and strategic problem solving. What excited me most about the tech industry is the endless potential for innovation and the opportunity to apply my skills in new and exciting ways. With a strong foundation for effective communication, leadership, collaboration and attention to detail, I'm eager to pivot into the tech world. I'm seeking opportunities in tech where I can contribute my diverse skill set, adapt to the fast-paced world of technology, all while continuing to learn and grow.
 
 ## Projects
 
