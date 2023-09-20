@@ -1,13 +1,13 @@
 # Hazel (Man) Sham
 
-I come from a dynamic background in luxury retail, where I honed essential skills such as exceptional customer service, cross-functional collaboration, and strategic problem solving. What excited me most about the tech industry is the endless potential for innovation and the opportunity to apply my skills in new and exciting ways. With a strong foundation for effective communication, leadership, collaboration and attention to detail, I'm eager to pivot into the tech world. I'm seeking opportunities in tech where I can contribute my diverse skill set, adapt to the fast-paced world of technology, all while continuing to learn and grow.
+I come from a dynamic background in luxury retail, where I honed essential skills such as exceptional customer service, cross-functional collaboration, and strategic problem-solving. What excites me most about the tech industry is the endless potential for innovation and the opportunity to apply my skills in new and exciting ways. I have a strong desire to pivot into the tech world, particularly in the role of a full- stack developer. I am eager to be trained comprehensively, from front-end to back-end development, and leverage my diverse skill set to solve real-life problems through technology. I am actively seeking opportunities in tech where I can not only adapt to the fast-paced world of technology but also actively contribute to meaningful projects, all while continuing to learn and grow as a developer.
 
 ## Projects
 
 | Name                                    | Description                                                                         | Tech/tools                          |
 | --------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------- |
-| **Final project :    Cheese-sommelier** | A web app to help Cheese lover base on their preference ,explore new type of Chesse. | Javascript, React, Cypress,MongoDB. |
-| **FaceBook clone project**              | A web app which let users to sign up ,login ,post their own posts or pictures, comment and like other user's posts Fully deployed | Javascript, React, Cypress,MongoDB, html,CSS  |
+| **Final project :    Cheese-sommelier** | A web app to help Cheese lovers based on their preference to explore new types of cheese. Fully deployed | Javascript, React, Cypress,MongoDB. |
+| **FaceBook clone project**              | A web app that let users sign up,login,post their own posts or pictures, comment and like other user's posts| Javascript, React, Cypress,MongoDB, html,CSS  |
 | **Bank tech test**                      |Technical test. A prograne let user get balance deposit ,withdraw and print formatted statements| Javascript , node , jest
 | **AirBnB clone project**                | A web app which let users to sign up, login, check booking availability, request to book and upload their own properties                                            | Python, html, CSS, SQL,  |
 ## Skills
@@ -34,10 +34,16 @@ Frequently collaborated with peers through pair programming to enhance problem-s
 
 
 #### The Hong Kong Polytechnic University (2011-2013)
-BA (Hons) Intimate Apparel in Institute of Textile and Clothing.
+BA (Hons) Intimate Apparel in Institute of Textile and Clothing
+- Specialised in underwear design, pattern-making, and garment construction.
+- Proficient in fabric testing and ensuring functional and comfortable design.
+- Emphasis on practical and functional intimate wear design.
 
 #### The Hong Kong Polytechnic University (2009-2011)
-Higher Diploma Fashion Retailing in Institute of Textile and Clothing.
+Higher Diploma Fashion Retailing in Institute of Textile and Clothing
+- Expertise in fashion retail management, buying, and visual merchandising.
+- Experienced in effective client store flow and quality control.
+- Comprehensive understanding of retail operations and customer experience optimisation.
 
 
 ## Work Experience
